@@ -1,18 +1,18 @@
-# TheCrew_FastMoney
-This is a Fast Money Hack for The Crew
+# About TheCrew_FastMoney:
+This is a Fast Money Hack/Guide for The Crew.
 
-# Things you Need
+# Things you Need:
 1) Macro Recorder: https://www.jitbit.com/macro-recorder/
 2) Cheat Engine: http://www.cheatengine.org/downloads.php
 
-# Try to this Login for Macro Recorder
+# Try to this Login for Macro Recorder:
 Username : On HAX
 Serial Number : ENokcYSKQS1XsrhrqKC6j+ieiSJkwolCD9ZBFro59VlmwKz/J4AfCP7+
 
-# Video for help
+# Video for help:
 Video: https://www.youtube.com/watch?v=a-4F0pwPS7k
 
-# Steps
+# Steps:
 1) Install Macro Recorder.
 2) Install Cheat Engine.
 3) Start Macro Recorder, Cheat Engine, & The Crew.
@@ -27,14 +27,14 @@ Video: https://www.youtube.com/watch?v=a-4F0pwPS7k
 11) Then go back to the Crew make sure your at the Salt Flats & Use shortcut keys to Start & stop.
 12) The game will seem fast & sometimes will crash or kick you out. THIS IS NORMAL
 
-# Other Way to get Fast Money
+# Other Way to get Fast Money:
 1) Use Cheat Engine
 2) Go to Salt Flats
 3) On Cheat Engine Select The Crew & Enable Speed Hack
 4) Do not exceed 20 & then Apply.
 5) Use whatever car you want & start Drifting around.
 
-# Visit Velociti Entertainment
+# Visit Velociti Entertainment:
 * [TS3](http://www.velocitientertainment.com/ts3/)
 * [Discord](https://discord.gg/azEY2kU)
 * [Website](www.velocitientertainment.com/)
@@ -48,3 +48,15 @@ Video: https://www.youtube.com/watch?v=a-4F0pwPS7k
 * [Twitch](www.twitch.tv/humantree92)
 * [eBay](www.ebay.com/usr/humantree92)
 * Kik #vegaming
+
+# Legal
+### License
+TheCrew_FastMoney - Fast Money for The Crew.
+
+Copyright (C) 2011-2018 Velociti Entertainment
+
+This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
+
+This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.
+
+You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
