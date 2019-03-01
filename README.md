@@ -53,7 +53,7 @@ Video: https://www.youtube.com/watch?v=a-4F0pwPS7k
 ### License
 TheCrew_FastMoney - Fast Money for The Crew.
 
-Copyright (C) 2011-2018 Velociti Entertainment
+Copyright (C) 2011-2019 Velociti Entertainment
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
